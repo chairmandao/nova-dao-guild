@@ -1,0 +1,19 @@
+{
+  "name": "nova-dao-bot-mono",
+  "version": "1.0.0",
+  "description": "node/ts/discord.js bot for NovaDAO guild",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chairmandao/nova-dao-bot-mono.git"
+  },
+  "author": "chairmandao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chairmandao/nova-dao-bot-mono/issues"
+  },
+  "homepage": "https://github.com/chairmandao/nova-dao-bot-mono#readme"
+}
