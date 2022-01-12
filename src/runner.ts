@@ -1,8 +1,8 @@
 import { Client, Intents } from 'discord.js';
-import { BotCommands, PREFIX } from './types';
-import { createHelpEmbed } from './utils/embeds';
-import { extractArgumentsFromString, initializeClient } from './utils/utils';
-import { logger } from './utils/logger';
+import { BotCommands, PREFIX } from '../types';
+import { createHelpEmbed } from '../utils/embeds';
+import { extractArgumentsFromString, initializeClient } from '../utils/utils';
+import { logger } from '../utils/logger';
 
 require('dotenv').config();
 

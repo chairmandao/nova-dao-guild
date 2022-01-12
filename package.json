@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/chairmandao/nova-dao-bot-mono.git"
   },
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "discord.js": "^13.1.0",
+    "fs-extra": "^10.0.0",
+    "winston": "^3.3.3"
+  },
   "author": "chairmandao",
   "license": "MIT",
   "bugs": {
